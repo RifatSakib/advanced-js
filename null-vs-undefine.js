@@ -24,3 +24,4 @@ let ages = [2,5,78];
 console.log(ages[10]);
 
 //null
+// Undefined means the variable has been declared, but its value has not been assigned. Null means an empty value or a blank value.
